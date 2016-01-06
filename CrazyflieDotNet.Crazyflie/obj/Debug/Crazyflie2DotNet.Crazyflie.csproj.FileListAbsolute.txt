@@ -1,5 +1,0 @@
-Z:\Applications\Bin\Debug\CrazyflieDotNet.Crazyflie.dll
-Z:\Applications\Bin\Debug\CrazyflieDotNet.Crazyflie.pdb
-Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyflie\obj\Debug\Crazyflie2DotNet.Crazyflie.csprojResolveAssemblyReference.cache
-Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.dll
-Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.pdb

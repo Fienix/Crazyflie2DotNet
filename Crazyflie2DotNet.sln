@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crazyflie2DotNet.Client", "Crazyflie2\Crazyflie2DotNet.Client.csproj", "{9E02A217-110A-42FF-B7F3-4E4FEC238AA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crazyflie2DotNet.Client", "Crazyflie2DotNet.Client\Crazyflie2DotNet.Client.csproj", "{9E02A217-110A-42FF-B7F3-4E4FEC238AA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crazyflie2DotNet.Crazyflie", "CrazyflieDotNet.Crazyflie\Crazyflie2DotNet.Crazyflie.csproj", "{3361E209-67A9-4F9F-8D72-6B2082A0B124}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crazyflie2DotNet.Crazyflie", "Crazyflie2DotNet.Crazyflie\Crazyflie2DotNet.Crazyflie.csproj", "{3361E209-67A9-4F9F-8D72-6B2082A0B124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crazyflie2DotNet.Crazyradio", "CrazyflieDotNet.Crazyradio\Crazyflie2DotNet.Crazyradio.csproj", "{B99BA1D6-E560-46F0-A440-443ABC7763F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crazyflie2DotNet.Crazyradio", "Crazyflie2DotNet.Crazyradio\Crazyflie2DotNet.Crazyradio.csproj", "{B99BA1D6-E560-46F0-A440-443ABC7763F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
