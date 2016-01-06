@@ -1,0 +1,5 @@
+Z:\Applications\Bin\Release\CrazyflieDotNet.Crazyflie.dll
+Z:\Applications\Bin\Release\CrazyflieDotNet.Crazyflie.pdb
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyflie\obj\Release\Crazyflie2DotNet.Crazyflie.csprojResolveAssemblyReference.cache
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyflie\obj\Release\CrazyflieDotNet.Crazyflie.dll
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyflie\obj\Release\CrazyflieDotNet.Crazyflie.pdb

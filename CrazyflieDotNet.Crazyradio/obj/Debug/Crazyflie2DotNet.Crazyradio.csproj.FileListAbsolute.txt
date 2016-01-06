@@ -1,0 +1,6 @@
+Z:\Applications\Bin\Debug\CrazyflieDotNet.Crazyradio.dll.config
+Z:\Applications\Bin\Debug\CrazyflieDotNet.Crazyradio.dll
+Z:\Applications\Bin\Debug\CrazyflieDotNet.Crazyradio.pdb
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyradio\obj\Debug\Crazyflie2DotNet.Crazyradio.csprojResolveAssemblyReference.cache
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyradio\obj\Debug\CrazyflieDotNet.Crazyradio.dll
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyradio\obj\Debug\CrazyflieDotNet.Crazyradio.pdb

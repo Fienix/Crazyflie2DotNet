@@ -1,0 +1,23 @@
+﻿<Window x:Class="Crazyflie2DotNet.Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Crazyflie2DotNet.Client"
+        mc:Ignorable="d"
+        Title="Crazyflie" Height="500" Width="800" Background="DarkGray"
+        KeyDown="Window_KeyDown" KeyUp="Window_KeyUp">
+    <Grid>
+        <Label x:Name="consoleLabel" Content="Console" HorizontalAlignment="Left" Margin="10,325,0,10" />
+        <TextBox x:Name="console" HorizontalAlignment="Left" Height="102" Margin="10,347,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="772"
+                 Background="Black" Foreground="Green" />
+        <Label x:Name="thrustLabel" Content="Thrust" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="thrustValue" HorizontalAlignment="Left" Margin="55,15,0,0" VerticalAlignment="Top" Width="70" />
+        <Label x:Name="yawLabel" Content="Yaw" HorizontalAlignment="Left" Margin="10,30,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="yawValue" HorizontalAlignment="Left" Margin="55,35,0,0" VerticalAlignment="Top" Width="70" />
+        <Label x:Name="pitchLabel" Content="Pitch" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="pitchValue" HorizontalAlignment="Left" Margin="55,55,0,0" VerticalAlignment="Top" Width="70" />
+        <Label x:Name="rollLabel" Content="Roll" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="rollValue" HorizontalAlignment="Left" Margin="55,75,0,0" VerticalAlignment="Top" Width="70" />
+    </Grid>
+</Window>

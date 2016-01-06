@@ -1,0 +1,15 @@
+C:\Users\Travis\Desktop\CrazyflieDotNet-master\CrazyflieDotNet\Bin\Debug\CrazyflieDotNet.Crazyflie.dll
+C:\Users\Travis\Desktop\CrazyflieDotNet-master\CrazyflieDotNet\Bin\Debug\CrazyflieDotNet.Crazyflie.pdb
+C:\Users\Travis\Desktop\CrazyflieDotNet-master\CrazyflieDotNet\Source\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Desktop\CrazyflieDotNet-master\CrazyflieDotNet\Source\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.dll
+C:\Users\Travis\Desktop\CrazyflieDotNet-master\CrazyflieDotNet\Source\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.pdb
+Z:\Applications\CrazyflieDotNet-master\CrazyflieDotNet\Bin\Debug\CrazyflieDotNet.Crazyflie.dll
+Z:\Applications\CrazyflieDotNet-master\CrazyflieDotNet\Bin\Debug\CrazyflieDotNet.Crazyflie.pdb
+Z:\Applications\CrazyflieDotNet-master\CrazyflieDotNet\Source\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.csprojResolveAssemblyReference.cache
+Z:\Applications\CrazyflieDotNet-master\CrazyflieDotNet\Source\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.dll
+Z:\Applications\CrazyflieDotNet-master\CrazyflieDotNet\Source\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.pdb
+Z:\Applications\Bin\Debug\CrazyflieDotNet.Crazyflie.dll
+Z:\Applications\Bin\Debug\CrazyflieDotNet.Crazyflie.pdb
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.csprojResolveAssemblyReference.cache
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.dll
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyflie\obj\Debug\CrazyflieDotNet.Crazyflie.pdb

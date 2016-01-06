@@ -1,0 +1,5 @@
+Z:\Applications\Bin\Release\CrazyflieDotNet.Crazyradio.dll.config
+Z:\Applications\Bin\Release\CrazyflieDotNet.Crazyradio.dll
+Z:\Applications\Bin\Release\CrazyflieDotNet.Crazyradio.pdb
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyradio\obj\Release\CrazyflieDotNet.Crazyradio.dll
+Z:\Applications\Crazyflie2\CrazyflieDotNet.Crazyradio\obj\Release\CrazyflieDotNet.Crazyradio.pdb
